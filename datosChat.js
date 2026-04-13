@@ -15,7 +15,7 @@ async function enviarIA() {
         const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
             method: "POST",
             headers: {
-                "Authorization": "Bearer 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",
+                "Authorization": "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",
                 "Content-Type": "application/json"
             },
             body: JSON.stringify({

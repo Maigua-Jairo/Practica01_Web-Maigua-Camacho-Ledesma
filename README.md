@@ -28,7 +28,7 @@ Aplicación web interactiva desarrollada para el Laboratorio 2 y 3 de la asignat
 ## 🚀 Despliegue
 Puedes ver el sitio en vivo aquí: 
 - [🔗 Ver Proyecto en Netlify](https://tu-sitio.netlify.app)
-- [🔗 Ver Proyecto en GitHub](https://github.com/diegod25122/Practica_Pokemon_Maigua_Ledesma_Camacho.git)
+- [🔗 Ver Proyecto en GitHub](https://maigua-jairo.github.io/Practica01_Web-Maigua-Camacho-Ledesma/)
 
 ---
 **Autores: Jairo Maigua - Diego Camacho - Anthony Ledesma 

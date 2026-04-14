@@ -2,7 +2,7 @@
 
 Este proyecto consiste en una aplicación web interactiva que consume datos en formato JSON desde APIs públicas para mostrar información de Pokémon y una lista de usuarios.
 
-<img width="1919" height="1151" alt="Captura de pantalla 2026-04-13 232528" src="https://github.com/user-attachments/assets/bb78a4fc-5837-4ec6-9a39-49b89f519810" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_auy3y8auy3y8auy3" src="https://github.com/user-attachments/assets/ee20a0bf-f646-4ef4-a2f2-b40ea8e0feaa" />
 
 
 ## 🛠️ Tecnologías utilizadas
@@ -11,7 +11,7 @@ Este proyecto consiste en una aplicación web interactiva que consume datos en f
 * **JavaScript (Fetch API)** - Para el consumo de datos asíncronos.
 * **Netlify** - Hosting para el despliegue.
 
-* <img width="1408" height="768" alt="Gemini_Generated_Image_auy3y8auy3y8auy3" src="https://github.com/user-attachments/assets/ee20a0bf-f646-4ef4-a2f2-b40ea8e0feaa" />
+<img width="1919" height="1151" alt="Captura de pantalla 2026-04-13 232528" src="https://github.com/user-attachments/assets/bb78a4fc-5837-4ec6-9a39-49b89f519810" />
 
 
 ## 📋 Funcionalidades
